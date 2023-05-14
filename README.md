@@ -1,21 +1,15 @@
-### Hola a todos 👋
+### ¡Hola! 👋🏻 
 
-                    ¡Hola! 👋🏻 soy Luis, DevOps Engineer y FullStack Developer, trabajando en <a href="https://dorna.com/"
-                            target="_blank" rel="noopener"></span> Dorna Sports</a>!
-                    
+Soy Luis, *DevOps Engineer* y *FullStack Developer*, trabajando en [Dorna Sports](https://dorna.com/)!
 
+Actualmente trabajo en [Dorna Sports](https://www.dorna.com/), empresa líder en el mundo de las carreras de motos, con [MotoGP](https://www.motogp.com/) como su evento más importante. Como parte de mi trabajo, me dedico a mantener la infraestructura cloud, utilizando tecnologías como [AWS](https://aws.amazon.com/es/), [Kubernetes](https://kubernetes.io/es/), [Terraform](https://www.terraform.io/), [Ansible](https://www.ansible.com/), [CloudFormation](https://aws.amazon.com/cloudformation/), [Packer](https://www.packer.io/) ... entre otras!
 
-<!--
-**luigdima/luigdima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+En mi tiempo libre, me gusta seguir explorando y aprendiendo nuevas tecnologías. Me encanta programar aplicaciones PWA con [Vue.js](https://vuejs.org/) y desarrollar soluciones de backend con PHP y Python. Además, monto infraestructuras de virtualización on-premise con [Proxmox](https://www.proxmox.com/) y diseño infraestructuras de red cableada y WiFi de alta densidad y seguridad.
 
-Here are some ideas to get you started:
+Me puedes encontrar en...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[GitHub](https://github.com/luigdima)
+[Twitter](https://www.twitter.com/luigdima)
+[Instagram](https://www.instagram.com/luigdima)
+
+También puedes [invitarme a un café ☕️](https://ko-fi.com/luigdima) cuando quieras 😊
